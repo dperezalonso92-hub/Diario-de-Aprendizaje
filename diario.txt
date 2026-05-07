@@ -1,0 +1,7 @@
+
+--- Entrada 06/05/2026 ---
+ Aprendido: Cositas de github
+ Realizado: cositas de github++
+ Dificultades: de entendimiento
+ Herramientas: visulStudio y github
+--------------------
