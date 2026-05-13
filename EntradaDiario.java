@@ -23,7 +23,7 @@ class EntradaDiario implements Serializable {
 
     @Override
     public String toString() {
-        return "\n--- Entradhjghgha " + fecha + " ---\n Aprendido: " + aprendido + 
+        return "\n--- Entrada" + fecha + " ---\n Aprendido: " + aprendido + 
                "\n Realizado: " + realizado + "\n Dificultades: " + dificultades + 
                "\n Herramientas: " + herramientas + "\n--------------------";
     }
